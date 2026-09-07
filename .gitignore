@@ -1,0 +1,30 @@
+# dependências
+node_modules/
+.pnpm-store/
+
+# build
+bin/
+obj/
+dist/
+build/
+out/
+publish/
+*.tsbuildinfo
+
+# ferramentas
+.vite/
+coverage/
+*.log
+npm-debug.log*
+
+# editores e SO
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ambiente local
+.env
+.env.local
