@@ -28,3 +28,7 @@ desktop.ini
 # ambiente local
 .env
 .env.local
+
+# vite
+dist/
+.vite/
